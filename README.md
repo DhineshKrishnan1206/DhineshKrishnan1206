@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working on React-Native
+Mern Stack Dev,Cross Platform Dev, Native and Expo 
 
 
 ## 🌐 Socials:
